@@ -1,4 +1,4 @@
-Portfolio Programming Projects
+## Portfolio Programming Projects
 
 ---
 ### [Project Title ](project1)
