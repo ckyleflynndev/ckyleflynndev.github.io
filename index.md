@@ -30,28 +30,12 @@ Ethics Papers
 -   **Class:**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
 ---
 
 Presentations
 -------------
 
 ### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
 
 - **Class:** 
 - **Grade:**
