@@ -1,7 +1,7 @@
 Portfolio Programming Projects
 
 ---
-### [Project 1 Title ](project1)
+### [Project Title ](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -27,7 +27,9 @@ Portfolio Programming Projects
 
 ---
 
-### [Other Work On My GitHub ]("https://github.com/ckyleflynndev")
+### [Other Work on Github ](https://github.com/ckyleflynndev/)
+
+![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
