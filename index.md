@@ -16,16 +16,7 @@ Portfolio Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title ](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 5 Title ](project1)
-
-![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
 
 <p style="font-size:12px">Other work on my <a href="https://github.com/ckyleflynndev">Github</a></p>
 
