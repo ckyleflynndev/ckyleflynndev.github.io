@@ -5,9 +5,9 @@ logo: "/images/profilepic2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   <br />
   Bachelor from Charleston Southern University in Computer and Information Science (Class of 2020)
-  <br />
-  <a href="https://example.com/resume">View My Resume</a>
   <br /><br />
+  <a href="https://example.com/resume">View My Resume</a>
+  <br />
 repository: "https://github.com/ckyleflynndev"
 github_username:  username # ckyleflynndev
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
