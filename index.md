@@ -27,9 +27,7 @@ Portfolio Programming Projects
 
 ---
 
-### [Other Work on Github ](https://github.com/ckyleflynndev/)
-
-
+<p style="font-size:12px">Other work on my <a href="https://github.com/ckyleflynndev">Github</a></p>
 
 ---
 
