@@ -3,9 +3,9 @@
 ## Portfolio Programming Projects
 
 ---
-### [Project Title ](project1)
+### [JavaScript Quiz App](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/quizAppPics/quizAppfig1.jpg)
 
 ---
 ### [Project 2 Title ](project2)
