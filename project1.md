@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eius
 ![screenshot](images/quizAppPics/quizAppfig1.jpg)
 Fig 1. The launch screen
 
-![screenshot](images/dquizAppPics/quizAppfig2.jpg)
+![screenshot](images/quizAppPics/quizAppfig2.jpg)
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/quizAppPics/quizAppfig3.jpg)
