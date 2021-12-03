@@ -17,7 +17,7 @@ Portfolio Programming Projects
 
 ---
 
-### [Other Work On My GitHub ](project1)
+### [Other Work On My GitHub ](<a href="https://github.com">)
 
 ---
 
