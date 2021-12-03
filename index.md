@@ -29,7 +29,7 @@ Portfolio Programming Projects
 
 ### [Other Work on Github ](https://github.com/ckyleflynndev/)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+
 
 ---
 
