@@ -9,7 +9,7 @@ JavaScript Coding Quiz
 
 ## Project description
 
-Lorem ipsum dolor sit amet
+A short quiz for JavaScript, CSS, and HTML
 
 ## How to compiles / run the program
 
