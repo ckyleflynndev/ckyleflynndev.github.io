@@ -6,7 +6,7 @@
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title ](project1)
+### [Project 2 Title ](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
