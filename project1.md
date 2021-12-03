@@ -1,10 +1,10 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+JavaScript Coding Quiz
 ===============
 
 -   **Language(s): JavaScript, CSS, HTML**
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_NumberGuessingGame)  
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
    
 
 ## Project description
@@ -13,12 +13,9 @@ Lorem ipsum dolor sit amet
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
-```
+[Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100) link to see it now
+
 
 ## UI Design
 
