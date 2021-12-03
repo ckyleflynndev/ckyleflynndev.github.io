@@ -3,9 +3,9 @@
 Project 1 Title
 ===============
 
--   **Language(s):**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Language(s): JavaScript, CSS, HTML**
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_NumberGuessingGame)  
+   
 
 ## Project description
 
