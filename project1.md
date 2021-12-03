@@ -38,3 +38,6 @@ Fig 3. Feedback when an error occurs.
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 [Back to Portfolio](./)
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) for formatting.
+
