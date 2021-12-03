@@ -11,17 +11,17 @@
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title ](project1)
+### [Project 3 Title ](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title ](project1)
+### [Project 4 Title ](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 5 Title ](project1)
+### [Project 5 Title ](project5)
 
 ![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
 
