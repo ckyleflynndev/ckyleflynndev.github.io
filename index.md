@@ -1,30 +1,23 @@
  
 ---  
-## Portfolio Programming Projects
+## Portfolio Programming Code
 
 ---
 ### [JavaScript Code W Codepen Links ](project1)
 
-![Project 1 Thumbnail Name](images/quizAppPics/quizAppfig1.jpg)
+---
+### [JavaScript Code ](project2)
 
 ---
-### [JavaScript Files ](project2)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+### [Stock Market Website ](project3)
 
 ---
-### [Project 3 Title ](project3)
-
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+### [C++ Code ](project4)
 
 ---
-### [Project 4 Title ](project4)
+### [Balanced Binary Trees](project5)
 
 ---
-### [Project 5 Title ](project5)
-
----
-
 
 <p style="font-size:12px">Other work on my <a href="https://github.com/ckyleflynndev">Github</a></p>
 
