@@ -3,12 +3,12 @@
 ## Portfolio Programming Projects
 
 ---
-### [JavaScript Code](project1)
+### [JavaScript Code W Codepen Links ](project1)
 
 ![Project 1 Thumbnail Name](images/quizAppPics/quizAppfig1.jpg)
 
 ---
-### [Project 2 Title ](project2)
+### [JavaScript Files ](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -20,12 +20,8 @@
 ---
 ### [Project 4 Title ](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
-
 ---
 ### [Project 5 Title ](project5)
-
-![Project 5 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 
