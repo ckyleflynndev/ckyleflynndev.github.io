@@ -3,7 +3,7 @@
 ## Portfolio Programming Projects
 
 ---
-### [JavaScript Quiz App](project1)
+### [JavaScript Code](project1)
 
 ![Project 1 Thumbnail Name](images/quizAppPics/quizAppfig1.jpg)
 
@@ -34,8 +34,4 @@
 
 ---
 
-
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
 
