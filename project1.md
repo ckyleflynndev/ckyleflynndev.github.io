@@ -1,60 +1,26 @@
 [Back to Portfolio](./)
 
-Coding Quiz
+JavaScript W Codepen.io
 ===============
 
-## Project description
-
-A short quiz for JavaScript, CSS, and HTML
+## Project
+Coding Quiz
+## Description
+Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, answers, correct answers. Totals correct answers returned
 
 -   **Language(s): JavaScript, CSS, HTML**
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
-   
-Coding Quiz
-===============
 
-## Project description
-
-A short quiz for JavaScript, CSS, and HTML
+## Project
+Number Guessing Game
+## Description
+Random number generated. 10 Guess Loop while if/else
 
 -   **Language(s): JavaScript, CSS, HTML**
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
--   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
-   
-Coding Quiz
-===============
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_NumberGuessingGame)  
+-   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/rNmJrdL)
 
-## Project description
-
-A short quiz for JavaScript, CSS, and HTML
-
--   **Language(s): JavaScript, CSS, HTML**
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
--   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
-   
-Coding Quiz
-===============
-
-## Project description
-
-A short quiz for JavaScript, CSS, and HTML
-
--   **Language(s): JavaScript, CSS, HTML**
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
--   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
-   
-Coding Quiz
-===============
-
-## Project description
-
-A short quiz for JavaScript, CSS, and HTML
-
--   **Language(s): JavaScript, CSS, HTML**
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
--   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
-   
 
 
 [Back to Portfolio](./)
