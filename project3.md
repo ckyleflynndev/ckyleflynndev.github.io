@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Stock Market Website
+# Stock Market Website
 ===============
 
 -   **Language(s):** Ruby 2.6.6, Rails 6.0.2.2, Heroku, Devise, Bash, JS, HTML, CSS, Bootstrap, IEX Fiance API, More included in the Gemfile
