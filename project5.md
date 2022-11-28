@@ -10,7 +10,7 @@ Balanced Binary Trees
 ## Project description
 
 Splay and AVL tree insertion and deletion time complexity analysis with performance graphing
--   **Documentation:**()
+-   **Documentation:**(https://github.com/ckyleflynndev/BalancedBinaryTrees/blob/main/Documentation/BalancedBinaryTreesDoc.pdf)
 
 [Back to Portfolio](./)
 
