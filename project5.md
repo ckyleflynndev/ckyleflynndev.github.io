@@ -4,7 +4,7 @@ Balanced Binary Trees
 ===============
 
 -   **Language(s):** C++, makefile, gnuplot
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/ckyleflynn/csci-315-spring-2020/tree/master/project3)  
     
 
 ## Project description
