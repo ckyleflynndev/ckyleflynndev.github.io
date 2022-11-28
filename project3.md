@@ -1,11 +1,10 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Stock Market Website
 ===============
 
 -   **Language(s):**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -13,12 +12,7 @@ Lorem ipsum dolor sit amet
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
+No longer connected to webhost and API expired
 
 ## UI Design
 
