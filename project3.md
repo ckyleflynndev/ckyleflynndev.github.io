@@ -8,28 +8,25 @@ Stock Market Website
 
 ## Project description
 
-Lorem ipsum dolor sit amet
+    coming soon
 
 ## How to compiles / run the program
 
 No longer connected to webhost and API expired
 
 ## UI Design
+(see Fig 1)(see Fig 2).(see Fig 3).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+    coming soon
 
 ![screenshot](images/friendsearch.jpg )
-Fig 1. The launch screen
+Fig 1. 
 
 ![screenshot](images/friendstock.jpg)
-Fig 2. Example output after input is processed.
+Fig 2.
 
 ![screenshot](images/stocksearch.jpg)
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Fig 3. 
 
 [Back to Portfolio](./)
 
