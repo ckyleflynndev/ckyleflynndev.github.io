@@ -2,6 +2,8 @@
 # Site settings
 # These are used to personalize your new site.
 title: C. Kyle Flynn 
+repository: "https://github.com/ckyleflynndev"
+github_username:  username # ckyleflynndev
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   <br />
