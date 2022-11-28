@@ -3,7 +3,7 @@
 JavaScript W Codepen.io
 ===============
 
-## Project
+## Project I
 Coding Quiz
 ## Description
 Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, answers, correct answers. Totals the correct answers for user
@@ -12,7 +12,7 @@ Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, a
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_CodingQuizApp)  
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/gOWvdOy?editors=0100)
 
-## Project
+## Project II
 Form Validation
 ## Description
 Random number generated. 10 Guess Loop while if/else
@@ -21,7 +21,7 @@ Random number generated. 10 Guess Loop while if/else
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_FormValidation)  
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/WNjMgpw)
 
-## Project
+## Project III
 Number Guessing Game
 ## Description
 Random number generated. 10 Guess Loop while if/else
