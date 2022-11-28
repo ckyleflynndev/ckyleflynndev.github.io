@@ -6,6 +6,9 @@
 ### [JavaScript Code W Codepen Links ](project1)
 
 ---
+### [JavaScript](project2)
+
+---
 ### [Stock Market Website](project3)
 
 ---
