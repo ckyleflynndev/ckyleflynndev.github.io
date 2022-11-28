@@ -9,13 +9,13 @@
 ### [JavaScript Code ](project2)
 
 ---
-### [Stock Market Website ](project3)
+### [Stock Market Website (ROR](project3)
 
 ---
 ### [C++ Code ](project4)
 
 ---
-### [Balanced Binary Trees](project5)
+### [Balanced Binary Trees in C++](project5)
 
 ---
 
