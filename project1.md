@@ -5,7 +5,7 @@ JavaScript W Codepen.io
 
 ## Project I
 Coding Quiz
-## Description
+### Description
 Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, answers, correct answers. Totals the correct answers for user
 
 -   **Language(s): JavaScript, CSS, HTML**
@@ -14,7 +14,7 @@ Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, a
 
 ## Project II
 Form Validation
-## Description
+### Description
 
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_FormValidation)  
@@ -22,7 +22,7 @@ Form Validation
 
 ## Project III
 New Years Countdown
-## Description
+### Description
 
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_AnimatedCountdown)  
