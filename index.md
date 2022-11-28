@@ -9,7 +9,7 @@
 ### [JavaScript Code ](project2)
 
 ---
-### [Stock Market Website (ROR](project3)
+### [Stock Market Website](project3)
 
 ---
 ### [C++ Code ](project4)
