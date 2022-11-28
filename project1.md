@@ -15,21 +15,18 @@ Quiz topics include JavaScript, CSS, and HTML. Object quizData with questions, a
 ## Project II
 Form Validation
 ## Description
-Random number generated. 10 Guess Loop while if/else
 
 -   **Language(s):** JavaScript, CSS, HTML
 -   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_FormValidation)  
 -   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/WNjMgpw)
 
 ## Project III
-Number Guessing Game
+New Years Countdown
 ## Description
-Random number generated. 10 Guess Loop while if/else
 
 -   **Language(s):** JavaScript, CSS, HTML
--   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_NumberGuessingGame)  
--   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/rNmJrdL)
-
+-   **Source Code Repository:** [Github Link](https://github.com/ckyleflynndev/JS_AnimatedCountdown)  
+-   **Codepen:** [Codepen.io](https://codepen.io/Ckflynndev/pen/vYmdzEQ)
 
 
 [Back to Portfolio](./)
