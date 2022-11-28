@@ -3,7 +3,7 @@
 Stock Market Website
 ===============
 
--   **Language(s):**
+-   **Language(s):** Ruby 2.6.6, Rails 6.0.2.2, Heroku, Devise, Bash, JS, HTML, CSS, Bootstrap, IEX Fiance API, More included in the Gemfile
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
 
 ## Project description
