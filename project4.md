@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+C++ Code
 ===============
 
 -   **Language(s):**
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet
 
 How to compile (if applicable) and run the project.
 
-```bash
+```
 cd ./project
 python setup.py
 ```
