@@ -8,7 +8,7 @@ Stock Market Website
 
 ## Project description
 
--   **Documentation**[Github Link](https://github.com/ckyleflynndev/StockMarketWebsite/blob/main/Stock%20Market%20Website%20Summary.pdf)
+-   [Documentation](https://github.com/ckyleflynndev/StockMarketWebsite/blob/main/Stock%20Market%20Website%20Summary.pdf)
 -   coming soon
 
 ## How to compiles / run the program
