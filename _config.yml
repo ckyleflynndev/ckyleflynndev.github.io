@@ -1,7 +1,3 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
-
 
 # Site settings
 # These are used to personalize your new site.
@@ -15,8 +11,6 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br />
 repository: "https://github.com/ckyleflynndev"
 github_username:  username # ckyleflynndev
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
 
 # Build setting
 theme: jekyll-theme-minimal
