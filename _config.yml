@@ -11,6 +11,8 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
 repository: "https://github.com/ckyleflynndev"
 github_username:  username # ckyleflynndev
+repository: "https://github.com/ckyleflynn"
+github_username:  username # ckyleflynn
 
 # Build setting
 theme: jekyll-theme-minimal
